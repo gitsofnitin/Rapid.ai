@@ -14,7 +14,7 @@ const Hero = () => {
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 leading-tight">
           Create Smarter. Scale Faster.
           <br />
-          with <span className="text-indigo-600">AI Tools</span>
+          with <span className="text-violet-800">AI Tools</span>
         </h1>
         <p className="mt-5 text-base sm:text-lg text-gray-600 max-w-xl mx-auto">
           Reimagine content creation with premium AI tools — Write, Design,
@@ -26,7 +26,7 @@ const Hero = () => {
       <div className="flex flex-wrap justify-center gap-4 mt-8 text-sm sm:text-base">
         <button
           onClick={() => navigate("/ai")}
-          className="bg-indigo-600 text-white px-8 py-3 rounded-lg font-medium shadow-md hover:bg-indigo-700 hover:scale-105 active:scale-95 transition duration-200"
+          className="bg-violet-900 text-white px-8 py-3 rounded-lg font-medium shadow-md hover:bg-violet-900 hover:scale-105 active:scale-95 transition duration-200"
         >
           Start Creating Now
         </button>

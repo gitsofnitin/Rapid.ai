@@ -10,7 +10,7 @@ const AiTools = () => {
   return (
     <div className="px-6 sm:px-12 xl:px-24 py-16 bg-gradient-to-b from-[#f9fafb] to-white">
       <div className="text-center mb-12">
-        <h2 className="text-4xl sm:text-5xl font-bold text-gray-800 mb-3">
+        <h2 className="text-4xl sm:text-5xl font-bold text-purple-800 mb-3">
           🚀 Powerful AI Tools
         </h2>
         <p className="text-gray-500 text-sm sm:text-base max-w-2xl mx-auto">
